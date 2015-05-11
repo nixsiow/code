@@ -1,4 +1,4 @@
-## This is a repo of a [sub-page](http://nixsiow.com) of [my personal site](http://nixsiow.com) to showcase my own projects.
+## This is a repo of a [sub-page](http://nixsiow.com/code) of [my personal site](http://nixsiow.com) to showcase my own projects.
 
 ***
 #### Find me on twitter if you wanna talk. [@nixsiow](http://twitter.com/nixsiow)
