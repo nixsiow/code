@@ -1,3 +1,5 @@
+[![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com)
+
 ## This is a repo of a [sub-page](http://code.nixsiow.com/) of [my personal site](http://nixsiow.com) to showcase my own projects.
 
 ***

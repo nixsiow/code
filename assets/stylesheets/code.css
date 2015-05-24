@@ -34,6 +34,7 @@ img {
 .profile-pic {
   width: 45%;
   border-radius: .25em;
+  margin: 40px;
 }
 /* --------------------------------
 
@@ -155,9 +156,6 @@ header p {
   font-size: 13px;
   font-size: 0.8125rem;
   color: #93861d;
-}
-.profile-pic {
-  margin: 25px;
 }
 .cd-placeholder-1 {
   background: #f57171;
@@ -732,4 +730,37 @@ xkeyframes
   font-weight: bold;
   z-index: 9;
   cursor: pointer;
+}
+
+#mobile-github {
+    display: none;
+    box-sizing: border-box;
+    color: rgb(255, 255, 255);
+    height: 40px;
+    left: 0px;
+    letter-spacing: 3px;
+    position: absolute;
+    text-align: center;
+    text-decoration: none;
+    text-transform: uppercase;
+    top: 0px;
+    width: 400px;
+    z-index: 10;
+    align-self: stretch;
+    perspective-origin: 200px 20px;
+    transform-origin: 200px 20px;
+    background: rgb(57, 61, 67) none repeat scroll 0% 0% / auto padding-box border-box;
+    border: 0px none rgb(255, 255, 255);
+    font: normal normal 900 normal 14px/normal brandon-grotesque, sans-serif;
+    outline: rgb(255, 255, 255) none 0px;
+    padding: 10px 0px 0px;
+}/*#mobile-github*/
+
+@media only screen and (max-width: 400px) {
+  #mobile-github {
+    display: block;
+  }
+  .github-fork-ribbon-wrapper {
+    display: none;
+  }
 }
