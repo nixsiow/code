@@ -3,7 +3,7 @@
 ## This is a repo of a [sub-page](http://code.nixsiow.com/) of [my personal site](http://nixsiow.com) to showcase my own projects.
 
 ***
-#### Find me on twitter if you wanna talk. [@nixsiow](http://twitter.com/nixsiow)
+#### I am on twitter. [@nixsiow](http://twitter.com/nixsiow)
 
 #### Colour scheme are handpicked and generated from [Coolors.co](http://coolors.co/app/).
 1. [Colour set 1](http://coolors.co/app/50514f-f25f5c-ffe066-247ba0-70c1b3)
